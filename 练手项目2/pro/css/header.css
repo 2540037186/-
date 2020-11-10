@@ -1,0 +1,24 @@
+
+	.d_w_h{
+		width: 100%;
+	}
+
+
+.my_ul{
+	width: 1200px;
+}
+#u1 li{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.my_img{
+	margin-left: 60px;
+}
+
+.my_font{font-size:12px ;}
+#u2 li{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+	
+	
